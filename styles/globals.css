@@ -12,6 +12,7 @@ a {
   text-align: center;
   text-decoration: dashed;
   display: block;
+  height: auto;
 }
 
 * {
